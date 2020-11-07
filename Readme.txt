@@ -1,6 +1,3 @@
-Name : Suvam Das
-Roll : MT2020022
-
 --------------------------------ONLINE BANKING PORTAL-----------------------------------
 
 1) Compile and Run create.c to create new "account" database along with Administrator account. 
